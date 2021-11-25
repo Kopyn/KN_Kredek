@@ -1,0 +1,4 @@
+Ping-Pong Master to gra, w której wcielamy się w ucznia, a celem jest pokonanie nauczyciela W-F'u w meczu ping-ponga. 
+Przy rozpoczęciu gry dostajemy co 10 sekund kieszonkowe o wartości 10 złota. Możemy za nie później wykupić ulepszenia dające nam przychód statystyk.
+Możemy za nie także zakupić przedmioty w sklepie, które także wpływają na nasze statystyki.
+Złoto możemy także zdobywać poprzez szybkie mecze, które mają postać minigierki.

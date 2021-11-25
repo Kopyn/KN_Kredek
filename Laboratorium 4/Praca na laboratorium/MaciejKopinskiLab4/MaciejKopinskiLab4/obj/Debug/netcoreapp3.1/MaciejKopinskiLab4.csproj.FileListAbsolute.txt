@@ -1,0 +1,86 @@
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.exe
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.deps.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.runtimeconfig.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.runtimeconfig.dev.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.dll
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.Views.dll
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.Views.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.AssemblyInfoInputs.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.AssemblyInfo.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.csproj.CoreCompileInputs.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorAssemblyInfo.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorAssemblyInfo.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\staticwebassets\MaciejKopinskiLab4.StaticWebAssets.Manifest.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\staticwebassets\MaciejKopinskiLab4.StaticWebAssets.xml
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\scopedcss\bundle\MaciejKopinskiLab4.styles.css
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.TagHelpers.input.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.TagHelpers.output.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorCoreGenerate.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorTargetAssemblyInfo.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorTargetAssemblyInfo.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.Views.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.dll
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.genruntimeconfig.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.csproj.CopyComplete
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\InterestingLinks.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllCars.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetListOfModels.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetCarByModel.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactForm.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactFormGreetings.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.exe
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.deps.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.runtimeconfig.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.runtimeconfig.dev.json
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.dll
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.Views.dll
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\bin\Debug\netcoreapp3.1\MaciejKopinskiLab4.Views.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.AssemblyInfoInputs.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.AssemblyInfo.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.csproj.CoreCompileInputs.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorAssemblyInfo.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorAssemblyInfo.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\staticwebassets\MaciejKopinskiLab4.StaticWebAssets.Manifest.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\staticwebassets\MaciejKopinskiLab4.StaticWebAssets.xml
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\scopedcss\bundle\MaciejKopinskiLab4.styles.css
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.TagHelpers.input.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.TagHelpers.output.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorCoreGenerate.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactForm.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactFormGreetings.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllCars.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetCarByModel.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetListOfModels.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\InterestingLinks.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorTargetAssemblyInfo.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.RazorTargetAssemblyInfo.cs
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.Views.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.dll
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.genruntimeconfig.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 4\Praca na laboratorium\MaciejKopinskiLab4\MaciejKopinskiLab4\obj\Debug\netcoreapp3.1\MaciejKopinskiLab4.csproj.CopyComplete

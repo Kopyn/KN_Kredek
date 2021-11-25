@@ -1,0 +1,22 @@
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\bin\Debug\MaciejKopińskiLab1.exe.config
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\bin\Debug\MaciejKopińskiLab1.exe
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\bin\Debug\MaciejKopińskiLab1.pdb
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.FormMain.resources
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.Properties.Resources.resources
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.csproj.GenerateResource.cache
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.csproj.CoreCompileInputs.cache
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.exe
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.pdb
+C:\Users\macko\source\repos\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.FormNew.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\bin\Debug\MaciejKopińskiLab1.exe.config
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\bin\Debug\MaciejKopińskiLab1.exe
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\bin\Debug\MaciejKopińskiLab1.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.FormMain.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.FormNew.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.Properties.Resources.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.csproj.GenerateResource.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.csproj.CoreCompileInputs.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.exe
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 1\Praca na laboratorium\MaciejKopińskiLab1\MaciejKopińskiLab1\obj\Debug\MaciejKopińskiLab1.pdb

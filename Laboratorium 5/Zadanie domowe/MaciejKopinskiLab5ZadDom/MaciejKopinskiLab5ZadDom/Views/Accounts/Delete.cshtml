@@ -1,0 +1,60 @@
+﻿@model Account
+@* Form to delete account *@
+@using (Html.BeginForm("Edit", "Accounts", FormMethod.Post))
+{
+    <h3>Czy na pewno chcesz usunąć poniższy rekord?</h3>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Login)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Login)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt class="col-sm-12">
+            Zostaną usunięte poniższe koszyki:
+        </dt>
+        @foreach (var item in Model.Baskets)
+        {
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => item.Id)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => item.Id)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => item.AccountId)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => item.AccountId)
+            </dd>
+        }
+    </dl>
+
+    @* Button to delete account *@
+    <input type="submit" value="Usuń konto" class="btn btn-primary" />
+}

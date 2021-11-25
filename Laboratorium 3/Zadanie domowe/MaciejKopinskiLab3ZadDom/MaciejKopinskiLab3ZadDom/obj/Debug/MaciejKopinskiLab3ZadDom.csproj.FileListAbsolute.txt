@@ -1,0 +1,2 @@
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 3\Zadanie domowe\MaciejKopinskiLab3ZadDom\MaciejKopinskiLab3ZadDom\obj\Debug\MaciejKopinskiLab3ZadDom.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 3\Zadanie domowe\MaciejKopinskiLab3ZadDom\MaciejKopinskiLab3ZadDom\obj\Debug\MaciejKopinskiLab3ZadDom.csproj.CoreCompileInputs.cache

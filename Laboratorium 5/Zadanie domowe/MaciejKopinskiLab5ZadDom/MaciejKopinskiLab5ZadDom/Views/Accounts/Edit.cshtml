@@ -1,0 +1,40 @@
+﻿@model Account
+@* Form to edit account *@
+@using (Html.BeginForm("Edit", "Accounts", FormMethod.Post))
+{
+    <h3>Edytuj konto</h3>
+    <hr />
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Login)
+        <div>
+            @Html.TextBoxFor(model => model.Login)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Password)
+        <div>
+            @Html.TextBoxFor(model => model.Password)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email)
+        <div>
+            @Html.TextBoxFor(model => model.Email)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.FirstName)
+        <div>
+            @Html.TextBoxFor(model => model.FirstName)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.LastName)
+        <div>
+            @Html.TextBoxFor(model => model.LastName)
+        </div>
+    </div>
+    @* Button to edit account *@
+    <input type="submit" value="Edytuj konto" class="btn btn-primary" />
+}

@@ -1,0 +1,11 @@
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\bin\Debug\CPC2021-1-Lab2.exe.config
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\bin\Debug\CPC2021-1-Lab2.exe
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\bin\Debug\CPC2021-1-Lab2.pdb
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.csprojAssemblyReference.cache
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\obj\Debug\CPC2020_2_Lab3.Forms.FormLogin.resources
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\obj\Debug\CPC2020_2_Lab3.Forms.FormMain.resources
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\obj\Debug\CPC2020_2_Lab3.Properties.Resources.resources
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.csproj.GenerateResource.cache
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.csproj.CoreCompileInputs.cache
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.exe
+D:\KredekBonus\CPC2021-1-Lab2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.pdb

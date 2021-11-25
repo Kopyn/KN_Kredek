@@ -1,0 +1,14 @@
+﻿@model Basket
+@* Form to create new basket *@
+@using (Html.BeginForm("Create", "Baskets", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.AccountId)
+        <div>
+            @Html.TextBoxFor(model => model.AccountId)
+        </div>
+    </div>
+    
+    @* Button to create new basket *@
+    <input type="submit" value="Dodaj koszyk" class="btn btn-primary" />
+}

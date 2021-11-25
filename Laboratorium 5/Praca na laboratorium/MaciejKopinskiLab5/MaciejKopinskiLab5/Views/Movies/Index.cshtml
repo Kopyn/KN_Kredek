@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model IEnumerable<Movie>
+
+@{ 
+    ViewData["Title"] = "Lista filmów";
+}
+
+<p>
+    @Html.ActionLink("Utwórz nowy", "Create", "Movies")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.YearOfRelease)
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var movie in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => movie.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => movie.YearOfRelease)
+            </td>
+        </tr>
+            }
+    </tbody>
+</table>

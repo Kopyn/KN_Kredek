@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!-- Website data -->
+<head>
+    <meta charset="utf-8" />
+    <!-- Website title -->
+    <title>Game</title>
+    <!-- Link to stylesheet -->
+    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!-- Website header -->
+    <header>
+        DINORUN
+    </header>
+    <!-- Section with scoreboard show button and new game button -->
+    <section id="first-section">
+        <div id="game-scoreboard-button">
+            <h1>
+                <img id="scoreboard-button" src="Images/scoreboard-button.png" onclick="ShowScoreboard()" />
+            </h1>
+        </div>
+
+        <div id="new-game">
+            <h1>
+                <img id="new-game-button" src="Images/new-game-button.png" onclick="NewGame()" />
+            </h1>
+        </div>
+    </section>
+
+    <!-- Section with game -->
+    <div id="second-section">
+        <div id="dino">
+            <img id="trex" src="Images/trex.png" />
+        </div>
+        <div id="cactus">
+            <img id="obstacle" src="Images/cactus.png" />
+        </div>
+        <div id="cloud">
+            <img id="cloud-image" src="Images/cloud.png" />
+        </div>
+    </div>
+
+    <!-- Section with controls and score -->
+    <section id="controls-section">
+        <img id="controls" src="Images/controls.png" "       />
+        <div id="score-panel">
+            <img id="score" src="Images/score.png" />
+            <h1 id="score-value">0</h1>
+        </div>
+
+    </section>
+
+    <!-- Connection to script -->
+    <script src="scripts/script.js"></script>
+</body>
+</html>

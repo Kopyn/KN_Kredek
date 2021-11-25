@@ -1,0 +1,225 @@
+﻿/*Website body style*/
+body {
+    background-color: brown;
+}
+
+/*Website header style*/
+header{
+    width: 100%;
+    height: 100%;
+    color: darkblue;
+    font-palette: dark;
+    font-size: 100px;
+    text-align: center;
+}
+
+/*Website section style*/
+section {
+    margin: auto;
+    width: 800px;
+    height: 700px;
+    background-color: black;
+    text-align: center;
+    align-self: center;
+    border: 1px solid white;
+}
+
+/*Section paragraph style*/
+section p {
+    margin-top: 200px;
+    vertical-align: middle;
+}
+
+/*Website section style*/
+#first-section{
+    height: 220px;
+}
+
+/*Website section style*/
+#controls-section{
+    height: 263px;
+}
+
+/*Play button style*/
+#play-button {
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+/*Scoreboard button in game panel style*/
+#game-scoreboard-button {
+    cursor: pointer;
+    width: 50%;
+    float: left;
+}
+
+/*Scores table style*/
+#scores-table{
+    margin: auto;
+    width: 90%;
+    background-color: darkgray;
+}
+
+/*Rows and columns style*/
+#scores-table th, #scores-table td {
+    color: black;
+    border: 1px solid white;
+    text-align: center;
+    padding: 7px;
+}
+
+/*Class style*/
+.center {
+    margin: auto;
+    color: dodgerblue;
+}
+
+/*Start game button style*/
+#start-game-button{
+    text-align: center;
+    cursor: pointer;
+}
+
+/*Play game button in scoreboard panel style*/
+#scoreboard-game-button {
+    cursor: pointer;
+    text-align: center;
+}
+
+/*Score style*/
+#score-panel{
+    float: right;
+    height: 200px;
+}
+
+/*Controls style*/
+#controls{
+    float: left;
+}
+
+/*Website section style*/
+#second-section {
+    background-color: white;
+    height: 261px;
+    width: 800px;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    bottom: 0px;
+    left: 0px;
+}
+
+/*Dinosaur style*/
+#trex {
+    height: 40px;
+    width: 25px;;
+    float: left;
+    bottom: 0;
+    top: 221px;
+    left: 0px;
+    vertical-align: bottom;
+    margin-bottom: 0px;
+    position: absolute;
+}
+
+/*Class for jumping with dino*/
+.jump {
+    animation: jump 0.3s linear;
+}
+
+/*Dinosaur animation*/
+@keyframes jump{
+    0%{
+        top: 150px;
+    }
+
+    30%{
+        top: 130px;
+    }
+
+    50%{
+        top: 80px;
+    }
+
+    80%{
+        top: 130px;
+    }
+
+    100%{
+        top: 150px;
+    }
+}
+
+/*Cactus style*/
+#obstacle {
+    height: 40px;
+    width: 4%;
+    float: right;
+    top: 221px;
+    bottom: 0;
+    left: 760px;
+    vertical-align: bottom;
+    margin-bottom: 0px;
+    position: absolute;
+
+    animation: block 1s infinite linear;
+}
+
+/*Cactus animation*/
+@keyframes block {
+    0% {
+        left: 760px;
+    }
+    100% {
+        left: -10px;
+    }
+}
+
+/*Cloud style*/
+#cloud-image {
+    height: 150%;
+    width: 70%;
+    bottom: 0;
+    left: 480px;
+    vertical-align: top;
+    margin-top: 0px;
+    position: absolute;
+    animation: fly 4s infinite linear;
+}
+
+/*Cloud animation*/
+@keyframes fly {
+    0% {
+        left: 480px;
+    }
+
+    100% {
+        left: -200px;
+    }
+}
+
+/*Score string style*/
+#score{
+    height: 100px;
+    float: left;
+}
+
+/*Score value style*/
+#score-value{
+    color: white;
+    height: 20px;
+    width: 100%;
+    text-align: left;
+    vertical-align: top;
+
+}
+
+/*New game button style*/
+#new-game {
+    width: 400px;
+    height: 171px;
+    cursor: pointer;
+    text-align: center;
+    float: right;
+}
+

@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model MaciejKopinskiLab4.Models.CarViewModel
+
+<div>
+    <h2>Model: @Model.Model</h2>
+    <h4>
+        Marka: @Model.Manufacturer
+    </h4>
+    <h4>Cena: @Model.Price</h4>
+    <img src="@Url.Content(Model.Photo)" alt="@Model.Model" />
+    <hr />
+</div>

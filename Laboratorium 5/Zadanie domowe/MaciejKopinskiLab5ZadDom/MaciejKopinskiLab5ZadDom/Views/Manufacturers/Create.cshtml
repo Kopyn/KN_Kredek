@@ -1,0 +1,14 @@
+﻿@model Manufacturer
+@* Form to add new manufacturer *@
+@using (Html.BeginForm("Create", "Manufacturers", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Name)
+        <div>
+            @Html.TextBoxFor(model => model.Name)
+        </div>
+    </div>
+
+    @* Button to add new manufacturer *@
+    <input type="submit" value="Dodaj producenta" class="btn btn-primary" />
+}

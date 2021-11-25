@@ -1,0 +1,16 @@
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\bin\Release\MaciejKopinskiLab1ZadDom.exe.config
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\bin\Release\MaciejKopinskiLab1ZadDom.exe
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\bin\Release\MaciejKopinskiLab1ZadDom.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.FormFinalBattle.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.FormMain.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.FormNegativeAction.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.Properties.Resources.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.CharacterPanel.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.ShopPanel.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.BattlePanel.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.FinalBattlePanel.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.csproj.GenerateResource.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.csproj.CoreCompileInputs.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.exe
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Zadanie domowe\MaciejKopinskiLab1ZadDom\MaciejKopinskiLab1ZadDom\obj\Release\MaciejKopinskiLab1ZadDom.pdb

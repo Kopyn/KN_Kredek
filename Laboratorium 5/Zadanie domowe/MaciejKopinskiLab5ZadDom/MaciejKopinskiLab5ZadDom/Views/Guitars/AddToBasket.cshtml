@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Basket>
+@* View to add guitar to basket *@
+@foreach (var basket in Model)
+    {
+<table>
+    <tr>
+        <td>
+            @Html.DisplayFor(b => basket.Id)
+        </td>
+        <td>
+            @Html.DisplayFor(b => basket.Account.Login)
+        </td>
+        <td>
+            @Html.ActionLink("Wybierz", "ChooseBasket", "Guitars", routeValues: new { bId = basket.Id, gId = ViewBag.GuitarId })
+        </td>
+    </tr>
+</table>
+    }

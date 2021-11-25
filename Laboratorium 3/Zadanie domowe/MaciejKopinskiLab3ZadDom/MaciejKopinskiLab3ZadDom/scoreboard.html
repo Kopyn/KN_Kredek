@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!-- Website data -->
+<head>
+    <meta charset="utf-8" />
+    <!-- Website title -->
+    <title>Scoreboard</title>
+    <!-- Link to stylesheet -->
+    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!--Website header-->
+    <header>
+        DINORUN
+    </header>
+    <!-- Section with scoreboard -->
+    <section class="first-section">
+        <div id="scoreboard-game-button">
+            <h1>
+                <a href="game.html" target="_self" onclick="ShowGamePanel()"> Game </a>
+            </h1>
+        </div>
+
+        <!-- Class with scores table -->
+        <div class="center">
+            <h2>Your scores:</h2>
+            <table id="scores-table">
+                <tr>
+                    <th> Score No. </th>
+                    <th> Score </th>
+                </tr>
+            </table>
+        </div>
+
+    </section>
+
+    <!-- Connection to script -->
+    <script src="scripts/script.js"></script>
+</body>
+</html>

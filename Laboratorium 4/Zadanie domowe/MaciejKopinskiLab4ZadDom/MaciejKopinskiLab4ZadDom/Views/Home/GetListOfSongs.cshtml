@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<String>
+
+@*print list of action links*@
+<ul>
+    @foreach (var songTitle in Model)
+    {
+        <li>
+            @*getSongByTitle recieves title as parameter*@
+            @Html.ActionLink(songTitle, "GetSongByTitle", "Home", new { title = songTitle }, null)
+        </li>
+    }
+</ul>

@@ -1,0 +1,2 @@
+C:\Users\macko\source\repos\MaciejKopinskiLab3\MaciejKopinskiLab3\obj\Debug\MaciejKopinskiLab3.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\MaciejKopinskiLab3\MaciejKopinskiLab3\obj\Debug\MaciejKopinskiLab3.csproj.CoreCompileInputs.cache

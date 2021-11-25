@@ -1,0 +1,11 @@
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\bin\Debug\MaciejKopinskiLab2ZadDom.exe.config
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\bin\Debug\MaciejKopinskiLab2ZadDom.exe
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\bin\Debug\MaciejKopinskiLab2ZadDom.pdb
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\obj\Debug\MaciejKopinskiLab2ZadDom.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\obj\Debug\MaciejKopinskiLab2ZadDom.Forms.FormLogin.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\obj\Debug\MaciejKopinskiLab2ZadDom.Forms.FormMain.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\obj\Debug\MaciejKopinskiLab2ZadDom.Properties.Resources.resources
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\obj\Debug\MaciejKopinskiLab2ZadDom.csproj.GenerateResource.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\obj\Debug\MaciejKopinskiLab2ZadDom.csproj.CoreCompileInputs.cache
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\obj\Debug\MaciejKopinskiLab2ZadDom.exe
+C:\Users\macko\source\repos\maciej_kopinski_cpc2021-1\Laboratorium 2\Zadanie domowe\MaciejKopinskiLab2ZadDom\MaciejKopinskiLab2ZadDom\obj\Debug\MaciejKopinskiLab2ZadDom.pdb

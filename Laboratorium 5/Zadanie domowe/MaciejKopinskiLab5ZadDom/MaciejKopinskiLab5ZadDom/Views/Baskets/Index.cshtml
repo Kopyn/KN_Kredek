@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Basket>
+
+<p>
+    @Html.ActionLink("Dodaj", "Create", "Baskets")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Account.Login)
+            </th>
+            <th>
+                Gitary
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var basket in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(b => basket.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(b => basket.Account.Login)
+            </td>
+            <td>
+                @foreach (var guitar in basket.Guitars)
+                {
+                    @Html.DisplayFor(g => guitar.Id)
+                }
+            </td>
+        </tr>
+            }
+    </tbody>
+</table>

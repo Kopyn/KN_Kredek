@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Manufacturer>
+
+<p>
+    @Html.ActionLink("Dodaj", "Create", "Manufacturers")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var manufacturer in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m => manufacturer.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => manufacturer.Name)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

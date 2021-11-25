@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Account>
+
+<p>
+    @Html.ActionLink("Dodaj", "Create", "Accounts")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Login)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var account in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(a => account.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(a => account.Login)
+            </td>
+            <td>
+                @Html.DisplayFor(a => account.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(a => account.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(a => account.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(a => account.LastName)
+            </td>
+            <td>
+                @Html.ActionLink("Edytuj", "Edit", "Accounts", routeValues: new { id = account.Id })
+                @Html.ActionLink("Usuń", "Delete", "Accounts", routeValues: new { id = account.Id })
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+﻿@model Guitar
+@* Form to add new guitar *@
+@using (Html.BeginForm("Create", "Guitars", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.ManufacturerId)
+        <div>
+            @Html.TextBoxFor(model => model.ManufacturerId)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Model)
+        <div>
+            @Html.TextBoxFor(model => model.Model)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Type)
+        <div>
+            @Html.TextBoxFor(model => model.Type)
+        </div>
+    </div>
+
+    @* Button to add new guitar *@
+    <input type="submit" value="Dodaj gitarę" class="btn btn-primary" />
+}

@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<MaciejKopinskiLab4.Models.CarViewModel>
+
+@foreach (var Car in Model)
+{
+    <div>
+        <h2>@Car.Model</h2>
+        <h4>
+            Producent: @Car.Manufacturer
+        </h4>
+        <h4>Cena: @Car.Price</h4>
+        <img src="@Url.Content(Car.Photo)" alt="@Car.Model" />
+        <hr />
+    </div>
+}
+
+<img src="https://tabs.ultimate-guitar.com/static/storage/ug-tabs-svg/44/219510.974.svg" alt="Everlong Tab">

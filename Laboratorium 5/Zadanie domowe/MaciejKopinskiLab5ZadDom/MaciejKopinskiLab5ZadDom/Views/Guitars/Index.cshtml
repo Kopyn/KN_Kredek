@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Guitar>
+
+<p>
+    @Html.ActionLink("Dodaj", "Create", "Guitars")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Manufacturer.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var guitar in Model)
+        {
+        <tr>
+            <th>
+                @Html.DisplayFor(g => guitar.Id)
+            </th>
+            <th>
+                @Html.DisplayFor(g => guitar.Manufacturer.Name)
+            </th>
+            <th>
+                @Html.DisplayFor(g => guitar.Model)
+            </th>
+            <th>
+                @Html.DisplayFor(g => guitar.Type)
+            </th>
+            <th>
+                @Html.ActionLink("Dodaj do koszyka", "AddToBasket", "Guitars", routeValues: new { guitarId = guitar.Id })
+            </th>
+        </tr>
+        }
+    </tbody>
+</table>

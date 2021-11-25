@@ -1,0 +1,37 @@
+﻿@model Account
+@* Form to create new account *@
+@using (Html.BeginForm("Create", "Accounts", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Login)
+        <div>
+            @Html.TextBoxFor(model => model.Login)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Password)
+        <div>
+            @Html.TextBoxFor(model => model.Password)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email)
+        <div>
+            @Html.TextBoxFor(model => model.Email)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.FirstName)
+        <div>
+            @Html.TextBoxFor(model => model.FirstName)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.LastName)
+        <div>
+            @Html.TextBoxFor(model => model.LastName)
+        </div>
+    </div>
+    @* Button to create new account *@
+    <input type="submit" value="Dodaj konto" class="btn btn-primary" />
+}
